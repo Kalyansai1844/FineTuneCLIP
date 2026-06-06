@@ -1,0 +1,4 @@
+method,top_1,top_5
+Baseline CLIP,1.0,1.0
+Enriched Prompts,1.0,1.0
+Prompt Adapter,1.0,1.0

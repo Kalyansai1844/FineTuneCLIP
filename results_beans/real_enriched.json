@@ -1,0 +1,15 @@
+{
+  "top_1": 0.32499998807907104,
+  "top_5": 1.0,
+  "per_class_accuracy": {
+    "angular leaf spot": 0.28205128205128205,
+    "bean rust": 0.65,
+    "healthy": 0.04878048780487805
+  },
+  "class_names": [
+    "angular leaf spot",
+    "bean rust",
+    "healthy"
+  ],
+  "method": "Enriched Prompts"
+}

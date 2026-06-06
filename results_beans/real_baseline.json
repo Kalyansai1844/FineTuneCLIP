@@ -1,0 +1,15 @@
+{
+  "top_1": 0.3083333373069763,
+  "top_5": 1.0,
+  "per_class_accuracy": {
+    "angular leaf spot": 0.8717948717948718,
+    "bean rust": 0.075,
+    "healthy": 0.0
+  },
+  "class_names": [
+    "angular leaf spot",
+    "bean rust",
+    "healthy"
+  ],
+  "method": "Baseline CLIP"
+}

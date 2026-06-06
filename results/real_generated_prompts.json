@@ -1,0 +1,23 @@
+{
+  "airplane": [
+    "A clear photo showing the distinctive shape and proportions of a airplane.",
+    "A close view of a airplane with visible color, texture, and surface details.",
+    "The airplane appears with its typical silhouette and identifying visual features.",
+    "A natural image of a airplane highlighting fine-grained patterns and markings.",
+    "A well-lit photograph of a airplane emphasizing features that separate it from similar classes."
+  ],
+  "automobile": [
+    "A clear photo showing the distinctive shape and proportions of a automobile.",
+    "A close view of a automobile with visible color, texture, and surface details.",
+    "The automobile appears with its typical silhouette and identifying visual features.",
+    "A natural image of a automobile highlighting fine-grained patterns and markings.",
+    "A well-lit photograph of a automobile emphasizing features that separate it from similar classes."
+  ],
+  "bird": [
+    "A clear photo showing the distinctive shape and proportions of a bird.",
+    "A close view of a bird with visible color, texture, and surface details.",
+    "The bird appears with its typical silhouette and identifying visual features.",
+    "A natural image of a bird highlighting fine-grained patterns and markings.",
+    "A well-lit photograph of a bird emphasizing features that separate it from similar classes."
+  ]
+}

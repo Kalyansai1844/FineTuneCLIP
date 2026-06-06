@@ -1,0 +1,15 @@
+{
+  "top_1": 0.3916666805744171,
+  "top_5": 1.0,
+  "per_class_accuracy": {
+    "angular leaf spot": 0.0,
+    "bean rust": 0.175,
+    "healthy": 0.975609756097561
+  },
+  "class_names": [
+    "angular leaf spot",
+    "bean rust",
+    "healthy"
+  ],
+  "method": "Prompt Adapter"
+}

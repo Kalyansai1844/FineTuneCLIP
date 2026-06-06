@@ -1,0 +1,10 @@
+{
+  "dataset": "AI-Lab-Makerere/beans",
+  "num_train": 200,
+  "num_test": 120,
+  "class_names": [
+    "angular leaf spot",
+    "bean rust",
+    "healthy"
+  ]
+}

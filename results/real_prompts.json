@@ -1,0 +1,72 @@
+{
+  "airplane": [
+    "A sleek aircraft with swept-back wings and a cylindrical fuselage soaring through the sky.",
+    "An airplane with a pointed nose cone, jet engines mounted under the wings, and a vertical tail fin.",
+    "A flying machine with long narrow wings, a metallic body, and landing gear visible underneath.",
+    "A passenger jet aircraft with rows of small windows along the fuselage and delta-shaped wings.",
+    "An airplane photographed from below showing its flat underside, wing tips, and twin tail stabilizers."
+  ],
+  "automobile": [
+    "A four-wheeled sedan with a glossy painted body, chrome bumpers, and glass windshield.",
+    "A car with rounded fenders, a visible grille at the front, headlights, and rubber tires on the road.",
+    "An automobile with a compact body shape, side mirrors, door handles, and a rear trunk.",
+    "A passenger car with a low profile, curved roofline, and rectangular license plate area.",
+    "A motor vehicle with a streamlined hood, wheel wells, and a distinct front-to-rear body contour."
+  ],
+  "bird": [
+    "A small feathered animal with a pointed beak, rounded body, and thin legs perched on a branch.",
+    "A bird with colorful plumage, spread wings showing individual flight feathers, and a fan-shaped tail.",
+    "A songbird with a compact body covered in soft feathers, bright eyes, and small clawed feet.",
+    "A perching bird with a distinctive breast pattern, short curved beak, and layered wing feathers.",
+    "A wild bird in natural habitat showing its characteristic head crest, eye stripe, and tail shape."
+  ],
+  "cat": [
+    "A furry domestic cat with pointed ears, slit-pupil eyes, and long whiskers extending from its muzzle.",
+    "A feline with soft fur, a flexible body, retractable claws, and a long curving tail.",
+    "A house cat with triangular ears, a pink nose, and distinctive facial markings around its eyes.",
+    "A small cat with padded paws, a sleek coat pattern, and alert upright ears scanning its surroundings.",
+    "A domestic cat showing its characteristic rounded head, almond-shaped eyes, and graceful seated posture."
+  ],
+  "deer": [
+    "A graceful deer with long slender legs, a short white tail, and large dark eyes in a narrow face.",
+    "A wild deer with a tawny brown coat, white belly patch, and branching antlers atop its head.",
+    "A cervid with an elongated neck, large oval ears, and a compact muscular body built for leaping.",
+    "A deer standing alert in a natural setting with its characteristic spotted or solid brown fur coat.",
+    "A forest animal with hooved feet, a short muzzle, and a distinctive white rump patch visible from behind."
+  ],
+  "dog": [
+    "A domestic dog with a wet nose, floppy or pointed ears, and an expressive face with visible teeth.",
+    "A canine with a muscular body, wagging tail, and a thick or short coat of fur in various colors.",
+    "A pet dog with bright attentive eyes, a panting tongue, and four sturdy legs with padded paws.",
+    "A dog breed showing its distinctive muzzle shape, ear set, and characteristic body proportions.",
+    "A loyal dog with a collar around its neck, a broad chest, and a tail held high or curled."
+  ],
+  "frog": [
+    "A small green amphibian with bulging eyes, smooth moist skin, and long powerful hind legs for jumping.",
+    "A frog with a wide flat head, no visible neck, and webbed toes on its splayed feet.",
+    "An amphibian with a compact rounded body, large circular eardrums behind its eyes, and a pale belly.",
+    "A tree frog clinging to a surface with sticky toe pads, showing its vibrant green or brown coloring.",
+    "A frog in a crouching position with its characteristic hunched back and large protruding eyes."
+  ],
+  "horse": [
+    "A large horse with a flowing mane, muscular neck, and long legs ending in single-toed hooves.",
+    "An equine with a broad chest, arched neck, and a long tail of coarse hair sweeping behind it.",
+    "A horse showing its distinctive elongated face, flared nostrils, and large expressive dark eyes.",
+    "A saddled or bridled horse with a sleek coat that shines in the light, standing in a field.",
+    "A powerful horse with well-defined leg muscles, a deep barrel chest, and erect pointed ears."
+  ],
+  "ship": [
+    "A large vessel floating on water with a tall hull, deck structures, and a prominent bow cutting through waves.",
+    "A cargo ship with stacked containers on deck, a bridge tower at the stern, and a waterline visible on the hull.",
+    "A naval vessel or boat on the ocean with masts, rigging, or radar equipment visible on its superstructure.",
+    "A ship sailing on open water with its wake trailing behind, smokestacks, and navigation lights.",
+    "A watercraft with a pointed prow, flat deck, and visible portholes or windows along its side."
+  ],
+  "truck": [
+    "A large commercial truck with a high cab, massive wheels, and a long cargo trailer or flatbed behind it.",
+    "A heavy-duty truck with a prominent front grille, vertical exhaust pipes, and a boxy cargo compartment.",
+    "A delivery truck with a rectangular cargo box, dual rear axles, and a step bumper at the back.",
+    "A pickup truck with an open bed, raised suspension, rugged tires, and a chrome front bumper.",
+    "A freight truck on a highway with its cab-over-engine design, side mirrors, and reflective safety markings."
+  ]
+}

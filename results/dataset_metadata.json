@@ -1,0 +1,12 @@
+{
+  "dataset": "smoke",
+  "num_train": 6,
+  "num_test": 6,
+  "class_names": [
+    "red square",
+    "green circle",
+    "blue triangle"
+  ],
+  "image_column": "image",
+  "label_column": "label"
+}

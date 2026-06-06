@@ -1,0 +1,23 @@
+{
+  "angular leaf spot": [
+    "A bean leaf with brown, angular lesions confined by veins, showing a tan center.",
+    "A leaf of a bean plant covered in dry, brown, angular spots with chlorotic yellow halos.",
+    "Foliage showing necrotic angular spots bounded by leaf veinlets.",
+    "A close-up of a bean leaf showing irregular, vein-limited brown spots.",
+    "A bean leaflet showing dark, angular necrotic spots on a green background."
+  ],
+  "bean rust": [
+    "A bean leaf with raised, circular reddish-brown rust pustules containing powdery spores.",
+    "A leaf of a bean plant showing orange-brown or rust-colored powdery lesions.",
+    "Underneath a bean leaf covered in circular rust pustules with a yellow chlorotic halo.",
+    "Bean foliage displaying rusty red-brown spore pustules on the green leaf surface.",
+    "A close view of small, circular rust pustules on a bean leaf."
+  ],
+  "healthy": [
+    "A healthy green bean leaf with smooth, uniform green surface and no lesions.",
+    "A clean, bright green leaf of a bean plant free of any diseases, spots, or rust.",
+    "Vibrant green bean foliage showing no signs of fungal or bacterial infection.",
+    "A fully healthy bean leaf with intact green tissue, clear veins, and no spots.",
+    "A photo of healthy bean leaves showing uniform coloration and texture."
+  ]
+}

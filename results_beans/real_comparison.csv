@@ -1,0 +1,4 @@
+method,top_1,top_5
+Baseline CLIP,0.3083333373069763,1.0
+Enriched Prompts,0.32499998807907104,1.0
+Prompt Adapter,0.3916666805744171,1.0

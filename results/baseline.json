@@ -1,0 +1,15 @@
+{
+  "top_1": 1.0,
+  "top_5": 1.0,
+  "per_class_accuracy": {
+    "red square": 1.0,
+    "green circle": 1.0,
+    "blue triangle": 1.0
+  },
+  "class_names": [
+    "red square",
+    "green circle",
+    "blue triangle"
+  ],
+  "method": "Baseline CLIP"
+}

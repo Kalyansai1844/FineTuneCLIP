@@ -1,0 +1,17 @@
+{
+  "dataset": "uoft-cs/cifar10",
+  "num_train": 200,
+  "num_test": 100,
+  "class_names": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ]
+}

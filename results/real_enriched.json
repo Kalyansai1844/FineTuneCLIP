@@ -1,0 +1,29 @@
+{
+  "top_1": 0.9100000262260437,
+  "top_5": 0.9900000095367432,
+  "per_class_accuracy": {
+    "airplane": 0.9285714285714286,
+    "automobile": 1.0,
+    "bird": 0.7857142857142857,
+    "cat": 0.7777777777777778,
+    "deer": 0.8888888888888888,
+    "dog": 0.875,
+    "frog": 0.8888888888888888,
+    "horse": 1.0,
+    "ship": 1.0,
+    "truck": 1.0
+  },
+  "class_names": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "method": "Enriched Prompts"
+}
