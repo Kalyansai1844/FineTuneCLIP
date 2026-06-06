@@ -51,24 +51,40 @@ Evaluated on a 5-class subset of the Oxford Flowers 102 dataset (`dpdl-benchmark
 
 ```mermaid
 graph TD
-    A[Input Image] --> B[CLIP Image Encoder]
+    %% Define Styles
+    classDef main fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef method fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef model fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px;
     
-    subgraph Method 1: Baseline
-        C1[Simple Label: 'bean rust'] --> D1[CLIP Text Encoder]
+    A["Input Image (Leaf / Flower)"] --> B["Frozen CLIP Image Encoder"]
+    B --> F["Normalized Image Features (1x512)"]
+    
+    subgraph Pipeline 1: Baseline CLIP
+        C1["Template Prompt: 'a photo of a {class}'"] --> D1["Frozen CLIP Text Encoder"]
+        D1 --> E1["Standard Class Prototypes"]
     end
     
-    subgraph Method 2: Enriched Prompts
-        C2[LLM Visual Descriptors: 'reddish-brown pustules, powdery spores'] --> D2[CLIP Text Encoder]
+    subgraph Pipeline 2: Enriched Prompts
+        C2["LLM Visual Descriptions (Color, Shape, Texture)"] --> D2["Frozen CLIP Text Encoder"]
+        D2 --> E2["Mean Embedding Prototype (L2 Normalized)"]
     end
     
-    subgraph Method 3: Prompt Adapter
-        C3[Text Embeddings] --> D3[2-Layer PyTorch MLP]
+    subgraph Pipeline 3: Prompt Adapter
+        C3["LLM Class Prompts"] --> D3["Frozen CLIP Text Encoder"]
+        D3 --> G["Adapter MLP (2-Layer Linear + ReLU)"]
+        G --> E3["Adapted Class Prototypes"]
     end
     
-    B --> E[Similarity Matching & Classification]
-    D1 --> E
-    D2 --> E
-    D3 --> E
+    F --> H["Cosine Similarity & Softmax"]
+    E1 --> H
+    E2 --> H
+    E3 --> H
+    
+    H --> I["Zero-Shot Classification Decision"]
+
+    class A,F,H,I main;
+    class C1,C2,C3 method;
+    class B,D1,D2,D3,G model;
 ```
 
 1. **Baseline CLIP**: Uses standard prompts like `a photo of a {class_name}`.
