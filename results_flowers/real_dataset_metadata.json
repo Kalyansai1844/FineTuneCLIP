@@ -1,0 +1,12 @@
+{
+  "dataset": "dpdl-benchmark/oxford_flowers102",
+  "num_train": 50,
+  "num_test": 160,
+  "class_names": [
+    "pink primrose",
+    "hard-leaved pocket orchid",
+    "canterbury bells",
+    "sweet pea",
+    "english marigold"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "top_1": 0.84375,
+  "top_5": 1.0,
+  "per_class_accuracy": {
+    "pink primrose": 0.8,
+    "hard-leaved pocket orchid": 1.0,
+    "canterbury bells": 0.95,
+    "sweet pea": 0.4444444444444444,
+    "english marigold": 1.0
+  },
+  "class_names": [
+    "pink primrose",
+    "hard-leaved pocket orchid",
+    "canterbury bells",
+    "sweet pea",
+    "english marigold"
+  ],
+  "method": "Baseline CLIP"
+}
